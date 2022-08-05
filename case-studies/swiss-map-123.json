@@ -1,0 +1,44 @@
+{
+  "check-adjacent": "true",
+  "elements": [
+    {
+      "id": "background",
+      "fill-initial": "ffffff"
+    },{
+      "id": "step1",
+      "fill-initial": "F2dbcb"
+    },
+    {
+      "id": "step2",
+      "fill-initial": "E2beae"
+    },
+    {
+      "id": "step3",
+      "fill-initial": "D2a499"
+    },
+    {
+      "id": "step4",
+      "fill-initial": "c18886"
+    },
+    {
+      "id": "step5",
+      "fill-initial": "b06d77"
+    },
+    {
+      "id": "step6",
+      "fill-initial": "9c546c"
+    },
+    {
+      "id": "step7",
+      "fill-initial": "843a63"
+    },
+    {
+      "id": "step8",
+      "fill-initial": "6c255e"
+    },
+    {
+      "id": "step9",
+      "fill-initial": "4f1059"
+    }
+  ]
+}
